@@ -1,5 +1,5 @@
-WorldGuru Project
-Our team:
--https://github.com/NiCHUY
--https://github.com/martynukvaleria
+WorldGuru Project <br />
+Our team: <br />
+-https://github.com/NiCHUY <br />
+-https://github.com/martynukvaleria <br />
 -https://github.com/GuzarevichAnna
