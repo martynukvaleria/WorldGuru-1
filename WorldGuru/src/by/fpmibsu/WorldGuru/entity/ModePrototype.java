@@ -7,4 +7,5 @@ public class ModePrototype {
     Time modeTimer;
     String nameOfRegime;
     Mark mark;
+    VisitorPrototype userNow;
 }

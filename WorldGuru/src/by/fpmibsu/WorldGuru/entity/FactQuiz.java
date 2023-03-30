@@ -2,7 +2,7 @@ package by.fpmibsu.WorldGuru.entity;
 
 import java.awt.*;
 
-public class FactQuiz {
+public class FactQuiz extends ModePrototype{
     String Fact;
 
     String variant1;
