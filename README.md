@@ -6,6 +6,6 @@ Various game modes will be developed for more flexible pumping of your brains. <
 There is some competitive element (Save user high score) <br />
 <br />
 Our team: <br />
--https://github.com/NiCHUY <br />
--https://github.com/martynukvaleria <br />
--https://github.com/GuzarevichAnna  <br />
+_https://github.com/NiCHUY_ <br />
+_https://github.com/martynukvaleria_ <br />
+_https://github.com/GuzarevichAnna_  <br />
