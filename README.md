@@ -1,4 +1,4 @@
-# WorldGuru Project <br />
+# **WorldGuru Project** <br />
 <br />
 Description: <br />
 Application designed to improve your knowledge of geography and history of countries. <br />
@@ -8,4 +8,4 @@ There is some competitive element (Save user high score) <br />
 Our team: <br />
 -https://github.com/NiCHUY <br />
 -https://github.com/martynukvaleria <br />
--https://github.com/GuzarevichAnna
+-https://github.com/GuzarevichAnna  <br />
