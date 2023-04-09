@@ -11,6 +11,6 @@ https://github.com/martynukvaleria <br />
 https://github.com/GuzarevichAnna  <br />
 <br /> 
 New Build <br />
-new version 0.03a <br />
+new version 0.3a <br />
 -added constructors <br />
 -fixed Entities.
