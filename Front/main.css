@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gayathri:wght@100&display=swap');
+
 body {
     display: flex;
     justify-content: center;
@@ -5,6 +7,7 @@ body {
     height: 100vh;
     font-family: "Gayathri Thin", serif;
     background: linear-gradient(45deg, #fffbc3, #3c7034);
+    color: #333;
 }
 
 h1 {
@@ -25,7 +28,7 @@ h1 {
     position: absolute;
     width: 60px;
     height: 60px;
-    left: 970px;
+    left: 1070px;
     top: 35px;
 
 }
@@ -34,10 +37,18 @@ h1 {
     position: absolute;
     width: 60px;
     height: 60px;
-    left: 1060px;
+    left: 1140px;
     top: 35px;
 
 }
+.circle3 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1210px;
+    top: 35px;
+}
+
 .rectangle{
     position: absolute;
     width: 634px;
@@ -45,12 +56,11 @@ h1 {
     left: 670px;
     top: 205px;
 }
-
-.circle3 {
+.container {
+    font-size: 40px;
     position: absolute;
-    width: 60px;
-    height: 60px;
-    left: 1150px;
-    top: 35px;
-
+    width: 200px;
+    height: 160px;
+    left: 670px;
+    top: 580px;
 }
