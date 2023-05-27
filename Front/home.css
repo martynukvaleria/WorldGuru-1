@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    font-family: "Gayathri Thin", serif;
+    background: linear-gradient(45deg, #fffbc3, #3c7034);
+    color: #333;
+}
+
+h1{
+    position: absolute;
+    left: 450px;
+    top: 240px;
+}
+
+#profile-picture {
+    position: absolute;
+    left: 210px;
+    top: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: gray;
+}
+.game-link1 {
+    position: absolute;
+    left: 210px;
+    top: 400px;
+    text-align: center;
+}
+
+.game-link2 {
+    position: absolute;
+    left: 600px;
+    top: 400px;
+    text-align: center;
+}
+
+.game-link3 {
+    position: absolute;
+    left: 210px;
+    top: 600px;
+    text-align: center;
+}
+
+.game-link4 {
+    position: absolute;
+    left: 600px;
+    top: 600px;
+    text-align: center;
+}
+
+.average-score {
+    height: 600px;
+    position: absolute;
+    left: 990px;
+    top: 400px;
+    text-align: center;
+}
