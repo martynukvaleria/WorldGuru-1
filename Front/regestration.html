@@ -3,14 +3,24 @@
 <html>
 <head>
     <title>World Guru</title>
+    <script>
+        function validateForm() {
+            var password = document.getElementById("password").value;
+            var confirmPassword = document.getElementById("confirmPassword").value;
+
+            if (password !== confirmPassword) {
+                alert("Passwords do not match!");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
 </head>
 <body>
 <div class="form-container">
     <h1>World Guru</h1>
-    <form onsubmit="function validateForm() {
-    return undefined;
-    }
-    return validateForm()">
+    <form onsubmit="return validateForm()">
         <div class="form-input">
             <label for="username"></label><input type="text" id="username" name="username" required placeholder="Login">
         </div>
@@ -25,8 +35,7 @@
                                                         required placeholder="Confirm password">
         </div>
         <input class="form-container" type="submit" value="Sign up">
-        <p>Already have account?
-        <input class="form-container" type="submit" value="Sign in"></p>
+        <p>Already have an account? Sign in</p>
     </form>
 </div>
 </body>
