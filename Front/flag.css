@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Gayathri Thin", serif;
+    background: linear-gradient(45deg, #fffbc3, #3c7034);
+}
+
+h1 {
+    position: absolute;
+    width: 586px;
+    height: 4px;
+    left: 640px;
+    bottom: 887px;
+
+    font-family: "Gayathri Thin", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+}
+
+.circle1 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 970px;
+    top: 35px;
+
+}
+
+.circle2 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1060px;
+    top: 35px;
+
+}
+.rectangle{
+    position: absolute;
+    width: 634px;
+    height: 346px;
+    left: 670px;
+    top: 205px;
+}
+
+.circle3 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1150px;
+    top: 35px;
+
+}
